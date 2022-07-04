@@ -1,0 +1,15 @@
+git 
+
+
+git branch   branch상태확인
+git branch 이름  : 브랜치 만들기
+
+git merge 브랜치이름 : fast
+ㄴ merge하려면 안사라질 브랜치에(main) 있고 다른거 merge시켜줘야해
+
+git branch -d 브랜치이름 : 브랜치 삭제
+
+git checkout -b 브랜치이름 : 브랜치 만들면서 거기로 이동
+
+git branch -m new sub : branch 이름을 new 에서 sub로 바꾸기
+            move (old) (new)
